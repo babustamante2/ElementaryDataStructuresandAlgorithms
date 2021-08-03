@@ -18,8 +18,7 @@ import java.util.Set;
  *  and displaying them. Next, to solve the main problem, I broke it down into smaller
  *  steps, four to be exact. I checked the rows first, then the columns, and finally
  *  performed two separate checks for the N unique characters. Lastly, I generated text
- *  files for my own testing and validation. I provided five of them needed for the
- *  program to run correctly. 
+ *  files for my own testing and validation. I provided the some of the files.
  *
  */
 
